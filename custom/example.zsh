@@ -8,3 +8,7 @@
 # brainstormr=~/Projects/development/planetargon/brainstormr
 # cd $brainstormr
 #
+alias reload!='source ~/.zshrc'
+alias cddev='cd ~/Documents/dev'
+
+ 
